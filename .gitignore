@@ -1,3 +1,8 @@
+# gz tar files
+*.gz
+*.bz2
+*.tar
+
 # Object files
 *.o
 
